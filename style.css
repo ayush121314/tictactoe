@@ -1,0 +1,27 @@
+*{
+    font-family: "Poppins", "sans-serif";
+}
+.box1,.box2,.box4,.box5,.box7,.box8{
+    border-right: 2px solid white; 
+}
+.box1,.box2,.box3,.box4,.box5,.box6{
+    border-bottom: 2px solid white; 
+}
+.box{
+    cursor: pointer;
+}
+.boxpn{
+    pointer-events: none;
+}
+.boxpa{
+    pointer-events: all;
+}
+.bgblock{
+    background-color: rgb(64, 148, 64);
+}
+.newgameh{
+   visibility: hidden;
+}
+.newgameb{
+    visibility: visible;
+}
